@@ -1,0 +1,1 @@
+i have made project of hospilality management using SQL, tableu and Excel in which i have used the data set of fact bookings,drim hotels,drim rooms, fact aggregrated bookings in which kpis such as total revenue, total bookings,revenue per city, how much is the cancellation rate and all
